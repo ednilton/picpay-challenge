@@ -1,15 +1,14 @@
 # picpay-challenge
-Desafio Backend do PicPay com Java e Spring Boot
+## Desafio Backend do PicPay com Java e Spring Boot
 
-Iniciando o projeto java (JPA, MySql, Validator, OpenFeign) [OK]
-Configurando MySQL no Docker [ok]
+## Iniciando o projeto java (JPA, MySql, Validator, OpenFeign)
+## Configurando MySQL no Docker
+### Configuração do Docker no WSL https://www.youtube.com/watch?v=Lgh8JgcYFwM
 
-## Configuração do Docker no WSL https://www.youtube.com/watch?v=Lgh8JgcYFwM
-Configurando Comunicação do MySql no SpringBoot[ok]
+# Configurando Comunicação do MySql no SpringBoot
+## Funcionalidade de Cadastro de Wallet (Carteira) 
 
-## Funcionalidade de Cadastro de Wallet (Carteira) ##
-
-# Mapear as entidades (Wallet, WalletType) [ok]
+# Mapear as entidades (Wallet, WalletType) 
 # Criar inicialização de WalletType no banco de dados [ok]
 Criar a funcionalidade de cadastro de Wallet [ok]
 	# 1 validação dos dados únicos [ok]
