@@ -33,7 +33,7 @@ Validar o tratamento de exceções com RestExceptionHandler
 Testar a API e validar no banco de dados 
 
 # Ajuste final
-Aplicar loggin no projeto com o SLF4J
+Aplicar logger no projeto com o SLF4J.
  
 # Melhorias:
 Implementar Extrato, Deposito e Saque [Pendente]
